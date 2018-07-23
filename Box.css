@@ -1,0 +1,22 @@
+nav{
+    margin:1em;
+    background-color:beige;
+    text-align:center;
+    font-size: 20px;
+    border-style:solid;
+    border-width:10px;
+    border-color:blue;
+    box-align:center;
+    width: 17%;
+    
+
+}
+
+#fe{
+    border-width:10px;
+    border-color:red;
+    border-style:solid;
+    font-size: 50px;
+    width:40%;
+    box-align:center;
+}

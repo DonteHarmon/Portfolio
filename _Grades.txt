@@ -1,0 +1,35 @@
+Portfolio final grade: 94
+
+Comments:  A good functional start, although your inclusion of four different .css files made it hard to follow what you were trying to do with the styling.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 91
+(50% of overall grade)
+
+Points deducted for these items:
+    -4 use of inline styles instead of CSS file for h1 centering.
+    -1 extranous </p> tag on About page.
+    -4 extranous css files, making it hard to understand which styles were being applied.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 95
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 Font size and background color are difficult to read, even though the contrast ratio is over the 3.0 threshold.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 97
+(25% of overall grade)
+
+Points deducted for these items:
+    -3 Unused media selector CSS selectors declared with no properties.

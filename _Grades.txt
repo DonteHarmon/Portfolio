@@ -1,4 +1,4 @@
-Portfolio final grade: 94
+Portfolio final grade: 96
 
 Comments:  A good functional start, although your inclusion of four different .css files made it hard to follow what you were trying to do with the styling.
 
@@ -28,8 +28,11 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 97
+Grade: 107
 (25% of overall grade)
 
 Points deducted for these items:
     -3 Unused media selector CSS selectors declared with no properties.
+
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
